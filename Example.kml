@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Folder>
+      <name>Skvajini</name>
+      <open>1</open>
+      <Style>
+       <ListStyle>
+        <listItemType>Skvajini</listItemType>
+        <bgColor>00ffffff</bgColor>
+       </ListStyle>
+      </Style>
+      <Placemark>
+        <name>Скв 01</name>
+        <description> nothing </description>
+        <Style>
+          <LabelIStyle>
+            <color>A6FF0000</color>
+            <scale>1</scale>
+          </LabelIStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/blue-pushpin.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>63.6171392,56.371892</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Скв 02</name>
+        <description> nothing </description>
+        <Style>
+          <LabelIStyle>
+            <color>A6FF0000</color>
+            <scale>1</scale>
+          </LabelIStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/blue-pushpin.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>63.6131192,51.371292</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Скв 03</name>
+        <description> nothing </description>
+        <Style>
+          <LabelIStyle>
+            <color>A6FF0000</color>
+            <scale>1</scale>
+          </LabelIStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/blue-pushpin.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>64.613192,52.3731932</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Скв 04</name>
+        <description> nothing </description>
+        <Style>
+          <LabelIStyle>
+            <color>A6FF0000</color>
+            <scale>1</scale>
+          </LabelIStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/blue-pushpin.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>65.611192,53.3712392</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
